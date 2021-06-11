@@ -4,7 +4,7 @@ import { Button } from '../components/Button';
 
 import { api } from '../services/api';
 
-import './styles/sidebar.scss';
+import '../styles/sidebar.scss';
 
 interface GenreResponseProps {
   id: number;
